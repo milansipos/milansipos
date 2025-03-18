@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I’m a second-semester **computer science** student, just starting out on this journey. 💻
+I’m still just getting the hang of things, so I’m learning as I go. 🥶
 <!--
 **milansipos/milansipos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
